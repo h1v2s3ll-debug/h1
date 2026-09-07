@@ -1,1 +1,177 @@
-   {"version": "1", "files": [], "removed_files": []}
+{
+  "files": [
+    {
+      "path": "app/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "app/ai_vision_helper.py",
+      "sha256": "6f1d5c3ba0d26cfbea651d3a1a5f34126c0254dca7a1d137882a65b5c5060af0"
+    },
+    {
+      "path": "app/db/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "app/db/approved_helper.py",
+      "sha256": "ca8b458e2ce05856c592359c44b53e5263742a4c7aef812520c42518b9ab8578"
+    },
+    {
+      "path": "app/db/auth_helper.py",
+      "sha256": "ec5329a3875bd0ee6548928e4415581f89e245dc42181b4cc395ec365260e58e"
+    },
+    {
+      "path": "app/db/backup_helper.py",
+      "sha256": "c3225eef10aa3fff586d2893d2d7bab7586d9041da0bbe8a704dc6a10171ca25"
+    },
+    {
+      "path": "app/db/database.py",
+      "sha256": "720bc27324c4d87208d270a55cf2290e6502effa4274e0702d54b6c3a8ab9b72"
+    },
+    {
+      "path": "app/db/models.py",
+      "sha256": "59e2fde1ef33ad8908e68ba950a1a646548fb9207f8783c940e2042634679d8d"
+    },
+    {
+      "path": "app/db/purchase_accounting.py",
+      "sha256": "d101586e87b13ae3ef69d83ff614040d2835d16538f8b4e3b6f2d8cd3d12e8c3"
+    },
+    {
+      "path": "app/db/recovery_helper.py",
+      "sha256": "c05a8227ab070063c7a0b4f51d35f5255e2235ccece21ea7074a98c5384dfda1"
+    },
+    {
+      "path": "app/db/seed_data.py",
+      "sha256": "5cac99e0e5d1afddfcf8464c2dde8e33342cd6e4e3064d8ef1e48835fc976087"
+    },
+    {
+      "path": "app/db/settings_helper.py",
+      "sha256": "890b422c0092d6abb5fb44582ef87e1a74f70a24b4d382f9413b3bea468d7c27"
+    },
+    {
+      "path": "app/debug_logger.py",
+      "sha256": "873757210c8fad2ee3a53bd836d46cbbe4715aaaa3602cbf95e6ea24662092fe"
+    },
+    {
+      "path": "app/licensing/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "app/licensing/activation_window.py",
+      "sha256": "b3aa68bd44ee0d2259d3858944c580e209b6c9f975a2022d1e3b74b2161037ab"
+    },
+    {
+      "path": "app/licensing/config.py",
+      "sha256": "4dd9241cb05268f77ff5b4f217b6b7b5c5c01e8d8797a9947f1643cc17e928b9"
+    },
+    {
+      "path": "app/licensing/license_manager.py",
+      "sha256": "98641fcf4f43791401a05c395f9dc2f41682ff4272f37828db7c4fa213f14b64"
+    },
+    {
+      "path": "app/main.py",
+      "sha256": "20e1697d8ec5baf23b0dafa977a11e4af1c5b2ad63652b797354e65c59de07d9"
+    },
+    {
+      "path": "app/mobile_server.py",
+      "sha256": "606958a8134a4281e27467280b4cfa0d46559dbd4932d536aa7b59411512e03e"
+    },
+    {
+      "path": "app/partial_updater.py",
+      "sha256": "f34e5a63511c631b3684ea263c3c84bb9f183358ea0ef0b77690cd4a9fa9e43d"
+    },
+    {
+      "path": "app/text_match.py",
+      "sha256": "3de9baad7252ef2a7408741bf6197c04f0635ba89c386973806daf2c211e65b3"
+    },
+    {
+      "path": "app/ui/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "app/ui/advisor_view.py",
+      "sha256": "4d985ed041b71898ce275f78594f4be015cfa07305c2398efaf18061b98b3adc"
+    },
+    {
+      "path": "app/ui/backup_view.py",
+      "sha256": "efa8b65f99c296d872585d9914343aeeb00161c19a2dafc7146103986130932c"
+    },
+    {
+      "path": "app/ui/dashboard_view.py",
+      "sha256": "9c0e140faa5a621052c632f851519278d3d2497e84793d7ed7c9d10732c012c0"
+    },
+    {
+      "path": "app/ui/database.py",
+      "sha256": "296d261d59a7cd89890df51144378955013ec39f261fef5514b8c454dc14ab68"
+    },
+    {
+      "path": "app/ui/debts_view.py",
+      "sha256": "2358f76083d0e1018d5459ae324614ee715a52a2b778ea44983522139b79527b"
+    },
+    {
+      "path": "app/ui/dosage_view.py",
+      "sha256": "ed9dba72dd227c0feef2837bdf7c876d965662ef6abda7eebe96d2000bd172c3"
+    },
+    {
+      "path": "app/ui/fonts.py",
+      "sha256": "1bf7b312309c91c5e701664d805bf234ab545f120dc0c712507ec616cb6f45ad"
+    },
+    {
+      "path": "app/ui/icons.py",
+      "sha256": "b090cb5474a54e22120dfc9508a3f3354b5081265df19de31bbbb8a9f7047fdd"
+    },
+    {
+      "path": "app/ui/inventory_view.py",
+      "sha256": "005b7b817b411860c0ec5457fd4ce9dadab5d2a1281c91e6cb755f0688a14d37"
+    },
+    {
+      "path": "app/ui/login_window.py",
+      "sha256": "673458f94d02773134d080bcc1166081a016a763ce1f0a07494912233f69bc93"
+    },
+    {
+      "path": "app/ui/main_window.py",
+      "sha256": "6ff98df0d97d2d1b1771c00b37523733f2062df22cb0d92b7bbddde64655c41d"
+    },
+    {
+      "path": "app/ui/mobile_view.py",
+      "sha256": "b01d3da7946bdf26b071096f0b041b4478e21bf3842aaca46c004788bfdc4f6f"
+    },
+    {
+      "path": "app/ui/pos_view.py",
+      "sha256": "c1f3337cbb6c8c7b49d431a4dfdb882125bce1a78f32684d4fd8db035bda9cf2"
+    },
+    {
+      "path": "app/ui/purchase_view.py",
+      "sha256": "38d154f7a4b8fc0ed0b72606a478eff25d762f2f3e8b977e97bffe2bc304d764"
+    },
+    {
+      "path": "app/ui/reports_view.py",
+      "sha256": "f475c55589a10345b3274feb328c221fee9708805d1097ccce64b03201f8321c"
+    },
+    {
+      "path": "app/ui/settings_view.py",
+      "sha256": "9f181ee35fdeffdd8c7c9fc0c3835412e603181c7dce1d264f4d90570399502c"
+    },
+    {
+      "path": "app/ui/supplier_accounts_view.py",
+      "sha256": "250916c5e0e07d1c2b306b11c4b802f34d918aa15fb4b882bb5534343e472d29"
+    },
+    {
+      "path": "app/ui/theme.py",
+      "sha256": "38223f1c87e8669a8e485abbd551028543648da7ab6f5a3752923e3394ea9920"
+    },
+    {
+      "path": "app/ui/widgets.py",
+      "sha256": "4671da7cfe0dc22f7f13e474ca7ff97b7791745d99f8f7d0d10785510d33407a"
+    },
+    {
+      "path": "app/update_checker.py",
+      "sha256": "fbc8e8c91284a8d7e3e3ffc5416796f96e284737794e3f4752159d9ddc66a512"
+    },
+    {
+      "path": "app/version.py",
+      "sha256": "f43c80705625db5d812fa30c42b2a2eefb45d389463c8041b1347193c0ca1617"
+    }
+  ],
+  "removed_files": []
+}
