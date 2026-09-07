@@ -48,8 +48,7 @@ GITHUB_REPO = "h1v2s3ll-debug/h1.git"
 # رابط ملف المانفست نفسه - نفترض إنه محفوظ بجذر الـrepo مباشرة (فرع main)
 # باسم manifest.json، ويتحدّث (commit) كل ما تطلع نسخة جديدة. GitHub
 # raw.githubusercontent.com يرجّع محتوى الملف مباشرة (مو صفحة HTML).
-MANIFEST_URL = f"https://raw.githubusercontent.com/{h1v2s3ll-debug/h1.git}/main/manifest.json"
-
+MANIFEST_URL = "https://raw.githubusercontent.com/h1v2s3ll-debug/h1/main/manifest.json"
 HTTP_TIMEOUT_SECONDS = 10
 
 
